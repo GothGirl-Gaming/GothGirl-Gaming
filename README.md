@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GothGirl-Gaming
+- 👋 Hi, I’m K.@GothGirl-Gaming
 - 👀 I’m interested in game design and development. 
 - 🌱 I’m currently learning writing code
 - 💞️ I’m looking to collaborate on mini games, dev projects and narrative design
